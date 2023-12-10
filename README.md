@@ -1,4 +1,4 @@
-# UiPath RPA Application - Contact car 
+# UiPath RPA Application - ReFramework
 **Overview** 
 This UiPath RPA (Robotic Process Automation) application is designed to automate the process of retrieving information about cars from incoming emails. The application listens for emails with specific subjects and attachments, extracts data containing car models and brands, scrapes details from contactcars websites, and organizes the data in an Excel sheet.
 
